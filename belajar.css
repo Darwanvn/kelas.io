@@ -6,7 +6,7 @@ body {
 .img-belajar {
 	width: 280px;
 	height: 300px;
-	margin-left: 40px;
+	margin-left: 50px;
 	margin-top: 10px;
 }
 
@@ -35,7 +35,7 @@ body {
 .font-isi {
 	font-family: 'Roboto', sans-serif;
 	margin-left: 30px;
-	font-size: 12px;
+	font-size: 10px;
 }
 
 .btn {
