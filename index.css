@@ -1,0 +1,123 @@
+body {
+	margin : 0 auto;
+
+}
+
+a {
+	text-decoration: none;
+	color:white;
+}
+
+.header {
+	height:1000px;
+	width: cover;
+	background-color: #2a2a2a;
+}
+
+.about li {
+	list-style: none;
+	float:right;
+	padding:25px 30px;
+	font-size:25px;
+	font-family: "Arial";
+	color:white;
+}
+
+.about {
+	padding-top: 5px
+}
+
+.container {
+	width : cover;
+	height: 400px;
+	margin: 0 auto;
+}
+@media (max-width: 575.98px) { 
+	.container {
+		width: 900px;
+	}
+ }
+
+
+.judul {
+	padding-top:400px;
+	text-align:center;
+	font-family: "Arial";
+	line-height: 1px;
+	color:white;
+}
+
+.judul h1 {
+	font-size:60px;
+	margin-left: 90px;
+}
+
+.judul p {
+	font-size:20px;
+}
+
+.main {
+	height:1000px;
+	background-color: gray;
+}
+
+.paragraf {
+	padding-top:350px;
+	width: 900px;
+	margin: 0 auto;
+	color:white;
+
+}
+
+
+.paragraf span {
+	color:orange;
+}
+
+.paragraf h2 {
+	font-size:38px;
+	line-height:33px;
+}
+
+.paragraf p {
+	font-family: "Arial";
+}
+
+
+
+.container2 {
+
+	height:280px;
+}
+
+.footer {
+	height: 280px;
+	background-color : #151515;
+	color:white;
+}
+
+.logo-footer li {
+	list-style: none;
+	padding-bottom: 10px;
+	font-size:15px;
+}
+
+.logo-footer {
+	float:left;
+	padding-top: 35px;
+	padding-left:45px;
+	padding-bottom: 35px;
+	font-size:20px;
+}
+
+.footer-contact {
+	float:right;
+	font-size:20px;
+	padding:25px;
+	padding-right:50px;
+}
+
+.contacts li {
+	list-style: none;
+}
+
